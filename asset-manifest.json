@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/syncinterns/static/css/main.c6fc3e48.css",
+    "main.js": "/syncinterns/static/js/main.21099b64.js",
+    "static/media/img3.jpg": "/syncinterns/static/media/img3.977891529982d41cae63.jpg",
+    "index.html": "/syncinterns/index.html",
+    "main.c6fc3e48.css.map": "/syncinterns/static/css/main.c6fc3e48.css.map",
+    "main.21099b64.js.map": "/syncinterns/static/js/main.21099b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fc3e48.css",
+    "static/js/main.21099b64.js"
+  ]
+}
